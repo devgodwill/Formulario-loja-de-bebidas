@@ -2,13 +2,12 @@ body {background: black;
 font-family: Tahoma;
 color: yellow;}
 
-h1,p {text-align: center;
-}
+h1,p {text-align: center;}
 
 .description {text-align: center;}
 
 form {border: solid,yellow;
-width: 90%;
+width: 50%;
 margin: auto;
 padding-top: 1rem;}
 
