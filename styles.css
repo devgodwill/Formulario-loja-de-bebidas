@@ -1,0 +1,36 @@
+body {background: black;
+font-family: Tahoma;
+color: yellow;}
+
+h1,p {text-align: center;
+}
+
+.description {text-align: center;}
+
+form {border: solid,yellow;
+width: 90%;
+margin: auto;
+padding-top: 1rem;}
+
+.name {width: 70%}
+
+.email {width: 69%;}
+
+.idade {width: 70%}
+
+.principais {}
+.secundarias {}
+
+span {display:inline-block;
+width: 10.4rem;}
+
+.produtos {display:inline-block;}
+
+.opiniao {margin-left: -1rem;
+margin-top: 2rem;}
+
+textarea {display: block;
+margin-left: 90;
+margin-top: 10px;}
+
+.submit {margin-left:45%;}
